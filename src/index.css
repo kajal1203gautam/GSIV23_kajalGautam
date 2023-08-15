@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  font-family: "Roboto";
+}
+
+
+.new_row{
+  justify-content: space-around;
+}
+.g_input{
+  width: 510px;
+}
+.form-control{
+  background-color: #e9ecef;
+  border: 1px solid #e9ecef;
+}
+.input-group-text{
+  background-color: #e9ecef;
+  border: 1px solid #e9ecef;
+}
+.txt{
+  font-weight: 300;
+}
+.movie_card{
+  height: 265px;
+}
+.star_icon{
+  color: #FBBC04;
+}
+.style-none{
+text-decoration: none;
+color: black;
+}
